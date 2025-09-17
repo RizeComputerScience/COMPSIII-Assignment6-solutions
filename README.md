@@ -1,4 +1,4 @@
-# Assignment #5 - Library Database
+# Assignment #6 - Library Database
 
 **TASK**: Create a `books` table in a library database using Python’s `sqlite3` module. 
 ![books ER diagram](books.png)
